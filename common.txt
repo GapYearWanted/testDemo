@@ -1,1 +1,6 @@
+updated after deal conflict
+<<<<<<< HEAD
 write from B
+=======
+write from A
+>>>>>>> update
